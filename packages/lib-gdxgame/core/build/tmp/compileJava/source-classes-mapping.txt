@@ -1,0 +1,20 @@
+com/mygdx/game/screens/GameScreen.java
+ com.mygdx.game.screens.GameScreen
+com/mygdx/game/world/WorldRenderer.java
+ com.mygdx.game.world.WorldRenderer
+com/mygdx/game/world/objects/Objects.java
+ com.mygdx.game.world.objects.Objects
+com/mygdx/game/Start.java
+ com.mygdx.game.Start
+com/mygdx/game/world/WorldPhisics.java
+ com.mygdx.game.world.WorldPhisics
+com/mygdx/game/world/Controller.java
+ com.mygdx.game.world.Controller
+com/mygdx/game/world/objects/Player.java
+ com.mygdx.game.world.objects.Player
+com/mygdx/game/world/WorldController.java
+ com.mygdx.game.world.WorldController
+com/mygdx/game/world/objects/Ground.java
+ com.mygdx.game.world.objects.Ground
+com/mygdx/game/world/World.java
+ com.mygdx.game.world.World
